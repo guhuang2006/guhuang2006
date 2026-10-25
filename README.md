@@ -1,16 +1,81 @@
-## Hi there 👋
+### 👋 哈喽哇，这里是 guhuang2006/咕皇/栖夏辞
+> 学生开发者（姑且算是吧）~
+> 
+> 主修课程：数据结构、软件测试、计算机网络、操作系统、Web 开发技术、UI接口设计、移动应用开发（鸿蒙方向）、软件工程和形式化方法
 
-<!--
-**guhuang2006/guhuang2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 **联系方式**
+- 🐱GitHub页面：[github.com/guhuang2006](https://github.com/guhuang2006)
+- 📫邮箱：2304761982@qq.com
+- 📺bilibili主页面：[咕皇DelayedEmperor的主页](https://space.bilibili.com/316314280)
+- ❤意中人：3526035925@qq.com
+---
 
-Here are some ideas to get you started:
+## 📝 个人简介
+1. 正在尝试 vibe coding 辅助开发项目的学生开发者，擅长利用所学知识实现富有创意的交互效果，深入学习全栈开发中。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+2. 喜欢研究和计算机相关的，有意思的各类“黑魔法”。
+
+
+3. 正在学习使用 [GitHub](https://github.com)管理项目！善于借助 AI 工具辅助学习开发，以实战小项目沉淀个人作品集；重视动手实践，保持持续学习的习惯。
+
+
+4. 喜欢吃好吃的但苦于社交低手和月底eco局，只敢望梅止渴。
+
+5. 人格
+
+6. 28考研！想考广东/福建/江西/安徽（优先级不分先后）的院校。但是至今只开了计算机组成原理和计算机网络的课程。
+
+7. [茕兔](https://github.com/qiongtu2077)亲赐爱称：豆包之友 
+
+8. 2026暑假头脑发热学习驾照，耗时两个月，同期好友已获得驾照，而咕皇科目二通关未遂，如今不积极备战科目二科目三科目四中。咕皇曾伤心的将此经历告知群友，得到的却不是安慰，而是总导演[初牛奶](https://space.bilibili.com/342721857)拍摄的大型连续剧《i咕TV》的开播。总之千言万语，感谢C2，感谢一杯牛奶。
+
+
+9. VCT赛事爱好者（又看又串），英雄联盟赛事爱好者（不看纯串）
+
+10. 我是人机
+
+11. 希望每个人都能幸福
+
+12. 真的没有啦！暂时就想到这么多啦！
+
+## 🎮 项目经历
+### Pelican‑Bike‑Riding‑Mini‑Game 鹈鹕骑行小游戏
+### （！？佩丽卡？！）
+🔗 [项目仓库](https://github.com/guhuang2006/Pelican-Bike-Riding-Mini-Game)
+- 🎮 个人独立开发的趣味网页小游戏
+- ✨ **纯 CSS 实现全部交互，不依赖任何 JavaScript**，利用复选框状态、CSS关键帧动画完成游戏逻辑。
+- 🎨 实战运用 CSS 选择器、状态控制、帧动画等技术，实现角色动画与游玩交互。
+- 🛠️ 持续迭代维护，不断优化动画表现，不断增加新功能，完整经历从想法到可运行作品的完整开发流程。
+- 别看上面吹的那么牛逼其实这些话都是AI总结的，这个项目目前的进度是：快要完成主界面了
+- 预计项目完成时间：短则2027年新年之前，长则2³¹−1年之前
+
+## 🎓 教育背景
+- **在校大学生｜计算机/信息技术/软件工程相关方向**
+- - 神的出笼时间：2028.06，具体哪天我也不知道。
+- 自学全栈开发，熟悉 Git & GitHub 使用流程，熟悉大模型调用并了解市面上的AI模型之间的优劣（自认为），具备开源项目思维。
+- GPA不够高（2.8/4），但是可以保证毕业
+
+## 🛠️ 专业技能
+
+
+
+
+- JAVA
+- python
+- c/c + +  (但是！longtime没学算法了，本质一条大区)
+- HTML5 / CSS3
+- CSS Animation、关键帧动画、CSS奇技实验
+- Git / GitHub 版本控制
+- 静态网页开发
+- 前端性能优化
+- Vibe Coding，AI辅助开发
+
+## 📌 其他
+- 📝 会通过 Issue 记录开发踩坑与学习疑。
+- 🧪 喜欢做创意网页Demo，持续丰富个人开源作品集。
+- 谁能莫名奇妙的我一个计算机相关offer啊———
+---
+
+
+
